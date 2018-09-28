@@ -11,10 +11,10 @@ body {
     font-family: sans-serif;
     color: #000;
     background: #333;
+    margin: 0;
 }
 article {
   padding: 20px 40px;
-  margin: -10px -20px;
   display: flex;
   flex-direction: row;
   flex: 1 1 50%;
